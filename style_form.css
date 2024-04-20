@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    margin:100px auto;
+    padding:40px;
+    width: 500px;
+    background-color: rgb(191, 200, 67);
+}
+form label{
+    display: block;
+    margin-bottom: 10px;
+
+}
+form input{
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    height: 32px;
+
+}
+form button{
+    border: none;
+    outline: none;
+    padding:5px;
+    width:80px;
+    height:30px;
+    background-color: cadetblue;
+    color: white;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+.image{
+    transform: rotate(45deg);
+    display: block;
+    margin: auto;
+}

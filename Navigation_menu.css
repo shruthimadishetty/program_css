@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.nav-container {
+  background-color: #333;
+  padding: 10px 0; 
+  display: flex;
+  justify-content: space-evenly;
+}
+.nav-link {
+  text-decoration: none;
+  color: #fff;
+}
+.nav-link:hover{
+    background-color: #555;
+}
