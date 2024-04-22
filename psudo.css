@@ -1,0 +1,34 @@
+.para{
+    color: green;
+}
+.para:nth-child(1){
+    color: blue;
+}
+h1:hover{
+    color: aqua;
+}
+h2:hover{
+    color: blue;
+}
+h3:hover{
+    color: cadetblue;
+}
+h4:hover{
+    color: coral;
+}
+h5:hover{
+    color: chartreuse;
+}
+h6:hover{
+    color: crimson;
+}
+p:hover{
+    color: darkmagenta;
+}
+.submit:hover{
+    color: deepskyblue;
+}
+.buttons:hover{
+    background-color: blueviolet;
+    transition: all 0.2s ease-in;
+}
